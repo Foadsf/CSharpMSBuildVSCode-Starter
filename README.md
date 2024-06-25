@@ -61,8 +61,6 @@ We've set up three tasks in VS Code for convenience:
 
 To use these tasks, press `Ctrl+Shift+P`, type "Tasks: Run Task", and select the desired task.
 
-# CSharpMSBuildVSCode-Starter
-
 
 ## Building with build.bat
 
